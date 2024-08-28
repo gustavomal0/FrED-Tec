@@ -1,2 +1,9 @@
-# FrED-Tec
-Repositorio para el desarrollo del proyecto FrED (Fiber Extruding Device), parte del laboratorio de investigación FrED Factory del Tec de Monterrey, enfocado en manufactura automatizada e Industria 5.0.
+# Proyecto FrED
+
+Este repositorio contiene todos los archivos relacionados con el Proyecto FrED, incluyendo diseños CAD, electrónica y firmware.
+
+## Estructura de directorios
+
+- CAD/: Contiene todos los modelos 3D, dibujos y otros archivos de diseño.
+- Electrónica/: Incluye esquemas, diseños de PCB y documentación relacionada.
+- Firmware/: Contiene el código fuente y los archivos del firmware.
