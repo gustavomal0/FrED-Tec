@@ -307,7 +307,7 @@
 	(footprint "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
 		(layer "F.Cu")
 		(uuid "2a68cf28-9574-436a-89de-e50f0c2e92af")
-		(at 116.605 64.11)
+		(at 112.355 64.11)
 		(property "Reference" "U2"
 			(at -5.075 -11.155 0)
 			(layer "F.SilkS")
@@ -320,7 +320,7 @@
 			)
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
-			(at 11.05 11.115 0)
+			(at 13.55 11.115 0)
 			(layer "F.Fab")
 			(uuid "c4d7d9bd-48fc-4999-b7b8-3ba233cdc1a8")
 			(effects
@@ -899,7 +899,7 @@
 	(footprint "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
 		(layer "F.Cu")
 		(uuid "7c4ed690-07e5-4a78-9971-b64a7458fd79")
-		(at 133.9 64.11)
+		(at 132.15 64.11)
 		(property "Reference" "U3"
 			(at -5.075 -11.155 0)
 			(layer "F.SilkS")
